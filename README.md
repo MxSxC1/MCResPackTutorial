@@ -1,4 +1,7 @@
 # MCResPackTutorial
+
+[MXSXC1 PROJECT WOLVERINE WARNING] - Read The Warnings At The Bottom Around The Danger Of Installing Things You Don't Understand...
+
 Minecraft Resource Pack Tutorial - Create A Resource Pack In <5 Minutes To Replace Gold Ore Texture
 [www.miscreat.co.uk](https://www.miscreat.co.uk/gaming/minecraft/mcreplacetexture)
 
