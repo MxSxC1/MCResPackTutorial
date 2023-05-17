@@ -22,7 +22,7 @@ C:\Users\[USERNAME]\AppData\Roaming\.minecraft\resourcepacks\
   Load The Pack
 Done
 
-4. If you have issues with "Invalid Version" then you need to increment the number 13 below in pack.mcmeta to latest version (google it or increment by 1 for next version usually). And you may as well rename it "description" while you're at it. And I'd rename the folder to the same. Don't use spaces in folder name, well I wouldn't anyway,  but you can in descr.ption)
+4. If you have issues with "Invalid Version" then you need to increment the number 13 below in pack.mcmeta to latest version (google it or increment by 1 for next version usually). And you may as well rename it "description" while you're at it. And I'd rename the folder to the same. Don't use spaces in folder name, well I wouldn't anyway,  but you can in description)
     "pack_format": 13,
     "description": "MxSxC1GoldOre"
     
