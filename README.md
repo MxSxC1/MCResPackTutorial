@@ -1,22 +1,20 @@
 # MCResPackTutorial
 
-[MXSXC1 PROJECT WOLVERINE WARNING] - Read The Warnings At The Bottom Around The Danger Of Installing Things You Don't Understand...
+**[MXSXC1 PROJECT WOLVERINE WARNING] - Read The Warnings At The Bottom Around The Danger Of Installing Things You Don't Understand...**
 
-Minecraft Resource Pack Tutorial - Create A Resource Pack In <5 Minutes To Replace Gold Ore Texture
+**Minecraft Resource Pack Tutorial - Create A Resource Pack In <5 Minutes To Replace Gold Ore Texture**
 [www.miscreat.co.uk](https://www.miscreat.co.uk/gaming/minecraft/mcreplacetexture)
 
-This pack does nothing other than replacing the Minecraft gold ore image with itself. Net result - zero from a visual point of view. 
+This pack does nothing other than replacing the Minecraft gold ore image with itself. Net result - zero from a visual point of view. So what's the point? This is a Simple Resource Pack Template For Tutorial Purposes to show people how to create their own custom textures. This resource pack is the most basic, and explains how to create your own texture pack.
 
-Simple Resource Pack For Tutorial Purposes to show people how to create their own custom textures. This resource pack is the most basic, and does pretty much nothing. It replaces the gold ore texture, with the same.
+By replacing exactly 1 file (or replacing it in 2 places if you want it to look nice) you can replace the gold ore texture with anything you like:
 
-However, combined with the tutorial, and replacing exactly 1 file (2 if you want it to look nice) you can replace the gold ore texture with anything you like within bounds below:
-
-1. Create a gold ore texture in .png format with a resolution of 64*64 (or multiple thereof). Separate Tutorial Incoming If Need Help.
+1. Create a gold ore texture in .png format with a resolution of 64*64 (or multiple thereof). Separate Tutorial Incoming If Need Help. Use Gimp, though any editor will do, though as always there is more to it than that, we are keeping simple here...
 
 2. Download this structure and put it in your Minecraft Folder. It is usually here:
 C:\Users\[USERNAME]\AppData\Roaming\.minecraft\resourcepacks\
 
-3.Replace these 2 files in the pack.
+3.Replace these 2 files in the pack with your new texture.
   gold_ore.png
   pack.png (optional)
   Load The Pack
@@ -34,7 +32,7 @@ This is a tutorial pack, to show people how simple it is to create a resource pa
 
 This is the most basic, and an example, will do separate examples and videos/tutorials on how to do more, and find the names/textures/originals/export the jar file/etc...use Gimp, do PBR, etc (nowhere near as hard as made out, but it does take considerable skill and effort to get it right)
 
-People over complicate things, me included, hopefully this is simpler.
+People over complicate things, me included, hopefully this is simpler. And as always, it is not really this simple in most cases, there is a lot more to it, but for now, that's you done, and works for basic textures...
 
 
 
