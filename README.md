@@ -17,11 +17,14 @@ By replacing exactly 1 file (or replacing it in 2 places if you want it to look 
   C:\Users\[USERNAME]\AppData\Roaming\.minecraft\resourcepacks\
 
 3.Replace these 2 files in the pack with your new texture.
+
   gold_ore.png
-  pack.png (optional)
-  Load The Pack
   
-4. If you have issues with "Invalid Version" then you need to increment the number 22 below in pack.mcmeta to latest version (google it or increment by 1 for next version usually). And you may as well rename it "description" while you're at it. And I'd rename the folder to the same. Don't use spaces in folder name, well I wouldn't anyway,  but you can in description)
+  pack.png (optional)
+  
+4. Load The Pack
+  
+5. If you have issues with "Invalid Version" then you need to increment the number 22 below in pack.mcmeta to latest version (google it or increment by 1 for next version usually). And you may as well rename it "description" while you're at it. And I'd rename the folder to the same. Don't use spaces in folder name, well I wouldn't anyway,  but you can in description)
     "pack_format": 22,
     "description": "MxSxC1GoldOre"
     
@@ -32,7 +35,7 @@ This is a tutorial pack, to show people how simple it is to create a resource pa
 
 [MXSXC1 END OF WARNING NOBODY WILL READ]
 
-People over complicate things, me included, hopefully this is simpler. And as always, it is not really this simple in most cases! There is a lot more to making it pretty, but this is how simple it really is.
+People over complicate things, me included, hopefully this is simpler. And as always, it is not really this simple to make it pretty and do it well, but the mechanics are simple.
 
 
 
