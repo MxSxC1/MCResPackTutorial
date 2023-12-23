@@ -25,7 +25,9 @@ By replacing exactly 1 file (or replacing it in 2 places if you want it to look 
 4. Load The Pack
   
 5. If you have issues with "Invalid Version" then you need to increment the number 22 below in pack.mcmeta to latest version (google it or increment by 1 for next version usually). And you may as well rename it "description" while you're at it. And I'd rename the folder to the same. Don't use spaces in folder name, well I wouldn't anyway,  but you can in description)
+   
     "pack_format": 22,
+   
     "description": "MxSxC1GoldOre"
     
 [MXSXC1 PROJECT WOLVERINE WARNING] 
