@@ -1,7 +1,8 @@
 {
   "pack": {
     "pack_format": 22,
-    "description": "MxSxC1Base"
+    "description": "MxSxC1 Resource Pack Tutorial",
+    "supported_formats": {"min_inclusive": 21, "max_inclusive": 35}
   }
 }
 
