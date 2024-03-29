@@ -1,4 +1,4 @@
-# MCResPackTutorial
+# MCResPackTutorial Most Basic Version gold_ore
 
 **[MXSXC1 PROJECT WOLVERINE WARNING] - Read The Warnings At The Bottom Around The Danger Of Installing Things You Don't Understand...**
 
